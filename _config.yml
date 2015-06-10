@@ -1,0 +1,23 @@
+markdown: redcarpet
+permalink: /:categories/:title.html
+url: 
+lsi: false
+pygments: true
+safe: true
+auto: false 
+
+paginate: 8
+paginate_path: "page:num"
+
+# presonal config
+domain: www.xuxiangxiang.com
+title: Xu Xiang's Blog
+description: Android, Cocos2d, Java Web, Linux, reading...
+author: Xu Xiang
+email: xuxiang08@foxmail.com
+github: xuxiang
+
+config:
+  js_dir:
+  img_dir:
+  css_dir:
