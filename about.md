@@ -10,4 +10,3 @@ Resume: <http://gurudigger.com/users/panxw/p?t=fc59f9c1>
 GitHub: <https://github.com/{{ site.github }}>  
 LinkedIn: <http://www.linkedin.com/in/panxw>  
 快递查询: <http://m.kuaidi100.com>
-<a href="http://m.kuaidi100.com" target="_blank">快递查询</a>
