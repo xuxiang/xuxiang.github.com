@@ -12,7 +12,7 @@ paginate_path: "page:num"
 # presonal config
 domain: www.xuxiangxiang.com
 title: Xu Xiang's Blog
-description: Android, Cocos2d, Java Web, Linux, reading...
+description: Android #, Cocos2d, Java Web, Linux, reading...
 author: Xu Xiang
 email: xuxiang08@foxmail.com
 github: xuxiang
